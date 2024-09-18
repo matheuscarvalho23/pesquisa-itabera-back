@@ -1,1 +1,1 @@
-web: node ace serve --node-env=production
+web: node ace serve --prod
